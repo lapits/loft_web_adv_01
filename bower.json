@@ -1,0 +1,21 @@
+{
+  "name": "loft_verstka1",
+  "authors": [
+    "lapits <lapits@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^4.1.1",
+    "jquery": "~3.0.0"
+  }
+}
